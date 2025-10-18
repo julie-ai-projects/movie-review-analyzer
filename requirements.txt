@@ -1,0 +1,4 @@
+transformers>=4.30
+torch
+gradio>=4.0
+pandas
