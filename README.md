@@ -37,6 +37,7 @@ cd movie-review-analyzer
 pip install -r requirements.txt
 python app.py
 
+
 ---
 
 ## 🏷️ Tags
